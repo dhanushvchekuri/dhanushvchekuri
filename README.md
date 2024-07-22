@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a security tool**
  
- 🌱 I’m currently learning **Azure, ExpressJS, Redux**
+ 🌱 Currently learning **Azure, ExpressJS, Redux**
 
 💬 Ask me about **JavaScript, React, Docker, Kubernetes, Web Development, ... or anything [here](https://github.com/dhanushvchekuri/dhanushvchekuri/issues)**
 
